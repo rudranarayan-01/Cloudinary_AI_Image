@@ -76,4 +76,4 @@ def process_image():
         })
         
 
-app.run(debug=True)
+# app.run(debug=True)
